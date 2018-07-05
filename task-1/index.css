@@ -1,0 +1,10 @@
+.table {
+    width: 90%;  
+    border-collapse: collapse;  
+    margin: 10px;
+   }
+.table TD   {
+    padding: 3px;  
+    border: 1px solid black; 
+   }
+   
